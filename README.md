@@ -2,7 +2,7 @@
 
 This project based on this: https://github.com/imniko/SetDPI , it's a commnad line project.
 
-# SetDPI_SL
+# About SetDPI_SL
 
 If you need to change the scale of the monitor frequently, this may be the best way. You only need to click the mouse twice. In the traditional way, you need to click the start menu of Windows, select Settings, click System, click Screen, click the monitor you want to set, and then click the drop-down of Zoom.
 
@@ -18,6 +18,7 @@ Get the release build and a sample AutoHotkey script with hotkey example from he
 
 ## Credits
 
-The whole credits go to @lihas of this project, https://github.com/lihas/windows-DPI-scaling-sample it was not possible without his findings.
 
-The whole credits go to @imniko of this project, https://github.com/imniko/SetDPI it was not possible without his code.
+Almost the whole credits go to @imniko of this project, https://github.com/imniko/SetDPI it was not possible without his code.
+
+Almost the whole credits go to @lihas of this project, https://github.com/lihas/windows-DPI-scaling-sample it was not possible without his findings.
