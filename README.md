@@ -1,6 +1,10 @@
+# IMPORTANT
+
+This project based on this: https://github.com/imniko/SetDPI , it's a commnad line project.
+
 # SetDPI
 
-This is a sample and simple C++ console project to change windows Scale and Layout aka DPI scaling from command line parameters. It can work on single and multi-monitor setup.
+This is a sample and simple C++ project to change windows Scale and Layout aka DPI scaling by click the tray icon in task bar. It can work on single and multi-monitor setup.
 
 ## How to use
 
